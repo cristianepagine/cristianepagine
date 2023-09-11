@@ -5,7 +5,7 @@
   - 💼 &nbsp; I’m currently working on Full Stack Development projects.<br/>
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.<br/>
   - ✍️ &nbsp; Pursuing Competitive and Gaming as hobbies/side hustles.  <br/>
-
+<br/>
 
 <h3 align="center"> My Stacks</h3> </br>
 
