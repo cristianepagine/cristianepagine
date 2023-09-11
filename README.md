@@ -17,11 +17,9 @@
 ![Markdown](http://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=magenta)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
-  </p>
 
 </br>
 <h3 align="center"> Find me around the web 🌎: </h3>  
-  <p align="center">
 - 💼 &nbsp; Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/cristianepagine">Linkedin</a><br/>
 - 🌐 &nbsp; Talk about everything... memes and sharing content <a href="https://www.instagram.com/crispagine/">Instagram</a>  
 </p>
