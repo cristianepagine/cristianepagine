@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! I'm Cristiane Pagine 👋 </h1></br>
 <h3 align="center">🚀 FullStack Developer | SQL  | Open Source ♥ | Competitive Gamer  🚀</h3></br>
-Here are some ideas to get you started:
+Here are some ideas to get you started:<br/>
   - 😄 &nbsp; Exploring new technologies and developing software solutions and quick hacks.<br/>
   - 🎓 &nbsp; Studying Computer Science and Engineering.<br/>
   - 💼 &nbsp; I’m currently working on Full Stack Development projects.<br/>
@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  #### Find me around the web 🌎:</br>
+  #### Find me around the web 🌎:
+  </br>
 - 💼 &nbsp; Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/cristianepagine">Linkedin</a><br/>
 - 🌐 &nbsp; Talk about everything... memes and sharing content <a href="https://www.instagram.com/crispagine/">Instagram</a>  
 </p>
