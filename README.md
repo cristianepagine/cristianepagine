@@ -7,7 +7,6 @@
   - ✍️ &nbsp; Pursuing Competitive and Gaming as hobbies/side hustles.  <br/>
 <br/>
 
-<p align="center">
 <h3> My Stacks</h3> </br>
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
@@ -19,7 +18,7 @@
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 
 </br>
-<h3 align="center"> Find me around the web 🌎: </h3>  
+<h3> Find me around the web 🌎: </h3>  
 - 💼 &nbsp; Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/cristianepagine">Linkedin</a><br/>
 - 🌐 &nbsp; Talk about everything... memes and sharing content <a href="https://www.instagram.com/crispagine/">Instagram</a>  
 </p>
