@@ -18,7 +18,7 @@
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 
 </br>
-### Find me around the web 🌎:   
+### Find me around the web 🌎: <br/>  
 - 💼 &nbsp; Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/cristianepagine">Linkedin</a><br/>
 - 🌐 &nbsp; Talk about everything... memes and sharing content <a href="https://www.instagram.com/crispagine/">Instagram</a>  
 </p>
