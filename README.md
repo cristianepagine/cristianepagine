@@ -1,11 +1,11 @@
 <h1 align="center">Hey there! I'm Cristiane Pagine 👋 </h1></br>
 <h3 align="center">🚀 FullStack Developer | SQL  | Open Source ♥ | Competitive Gamer  🚀</h3></br>
 Here are some ideas to get you started:
-  - 😄 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-  - 🎓 &nbsp; Studying Computer Science and Engineering.
-  - 💼 &nbsp; I’m currently working on Full Stack Development projects.
-  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
-  - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
+  - 😄 &nbsp; Exploring new technologies and developing software solutions and quick hacks.<br/>
+  - 🎓 &nbsp; Studying Computer Science and Engineering.<br/>
+  - 💼 &nbsp; I’m currently working on Full Stack Development projects.<br/>
+  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.<br/>
+  - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  <br/>
 
 
 ### My Stacks </br>
