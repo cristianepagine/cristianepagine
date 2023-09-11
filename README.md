@@ -7,7 +7,7 @@
   - ✍️ &nbsp; Pursuing Competitive and Gaming as hobbies/side hustles.  <br/>
 
 
-<h3 align="center"> My Stacks</h3>h3> </br>
+<h3 align="center"> My Stacks</h3> </br>
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
