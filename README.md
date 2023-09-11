@@ -19,11 +19,9 @@ Here are some ideas to get you started:
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 
+
 <p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/cristianepagine/" alt="Linkedin"></a>
-    <a href="https://www.instagram.com/crispagine/" alt="Facebook"></a>
-
-  </p>
+  #### Find me around the web 🌎:
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/cristianepagine/" alt="Linkedin"></a>
+- 🌐 Talk about everything... memes and sharing content tech on <a href="https://www.instagram.com/crispagine/" alt="Facebook"></a>
+</p>
