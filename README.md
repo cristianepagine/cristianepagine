@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Cristiane Pagine 👋 </h1></br>
-<h3 align="center">🚀 Backend Developer | MERN  | Open Source ♥ | Devops | Competitive Programmer  🚀</h3></br>
+<h3 align="center">🚀 FullStack Developer | SQL  | Open Source ♥ | Competitive Gamer  🚀</h3></br>
 Here are some ideas to get you started:
   - 😄 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
   - 🎓 &nbsp; Studying Computer Science and Engineering.
@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   #### Find me around the web 🌎:</br>
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/cristianepagine/" alt="Linkedin"></a></br>
+- 💼 Connecting and sharing professional updates on [Linkedin](https://www.linkedin.com/in/cristianepagine/" alt="Linkedin"></a>)</br>
 - 🌐 Talk about everything... memes and sharing content tech on <a href="https://www.instagram.com/crispagine/" alt="Facebook"></a></br>
 </p>
