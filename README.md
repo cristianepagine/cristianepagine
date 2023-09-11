@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   #### Find me around the web 🌎:</br>
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/cristianepagine/" alt="Linkedin"></a>
-- 🌐 Talk about everything... memes and sharing content tech on <a href="https://www.instagram.com/crispagine/" alt="Facebook"></a>
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/cristianepagine/" alt="Linkedin"></a></br>
+- 🌐 Talk about everything... memes and sharing content tech on <a href="https://www.instagram.com/crispagine/" alt="Facebook"></a></br>
 </p>
