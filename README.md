@@ -20,7 +20,7 @@ Here are some ideas to get you started:<br/>
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 
 
-<h3 align="center" Find me around the web 🌎: </h3>  </br>
+<h3 align="center"> Find me around the web 🌎: </h3>  </br>
   <p align="center">
 - 💼 &nbsp; Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/cristianepagine">Linkedin</a><br/>
 - 🌐 &nbsp; Talk about everything... memes and sharing content <a href="https://www.instagram.com/crispagine/">Instagram</a>  
