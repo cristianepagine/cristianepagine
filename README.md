@@ -1,10 +1,11 @@
 <h1 align="center">Hey there! I'm Cristiane Pagine 👋 </h1></br>
-<h2 align="center">🚀 Java Developer | Open Source ♥ | Competitive Gamer  🚀</h3></br>
+<h2 align="center">🚀 Java Developer | AI enthusiastic| Open Source ♥ | Competitive Gamer  🚀</h3></br>
   - 😄 &nbsp; Exploring new technologies and developing software solutions and quick hacks.<br/>
-  - 🎓 &nbsp; Graduate Course in Java Development at UTFPR.<br/>
+  - 🎓 &nbsp; Postgraduate Specialization in Java Development at UTFPR.<br/>
   - 🎓 &nbsp; MSc in Computer Science at UFPR.<br/>
   - 💼 &nbsp; I’m currently working on Java/SpringBoot Development projects.<br/>
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.<br/>
+  - 🌱 &nbsp; Learning more about Artificial Intelligence and Machine Learning.<br/>
   - ✍️ &nbsp; Pursuing Competitive and Gaming as hobbies/side hustles.  <br/>
 <br/>
 
