@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Cristiane Pagine 👋 </h1></br>
-<h2 align="center">🚀 Java Developer | AI enthusiastic| Open Source ♥ | Competitive Gamer  🚀</h3></br>
+<h2 align="center">🚀 Java Developer | AI Enthusiastic| Open Source ♥ | Competitive Gamer  🚀</h3></br>
   - 😄 &nbsp; Exploring new technologies and developing software solutions and quick hacks.<br/>
   - 🎓 &nbsp; Postgraduate Specialization in Java Development at UTFPR.<br/>
   - 🎓 &nbsp; MSc in Computer Science at UFPR.<br/>
