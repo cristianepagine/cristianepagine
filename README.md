@@ -1,18 +1,19 @@
 <h1 align="center">Hey there! I'm Cristiane Pagine 👋 </h1></br>
-<h2 align="center">🚀 Java Developer | AI Enthusiastic| Open Source ♥ | Competitive Gamer  🚀</h3></br>
+<h2 align="center">🚀  Machine Learning Developer| Java Developer | Competitive Gamer  🚀</h3></br>
   - 😄 &nbsp; Exploring new technologies and developing software solutions and quick hacks.<br/>
   - 🎓 &nbsp; Postgraduate Specialization in Java Development at UTFPR.<br/>
   - 🎓 &nbsp; MSc in Computer Science at UFPR.<br/>
+  - 💼 &nbsp; I’m currently working on Machine Lerning Python Development projects.<br/>
   - 💼 &nbsp; I’m currently working on Java/SpringBoot Development projects.<br/>
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.<br/>
-  - 🌱 &nbsp; Learning more about Artificial Intelligence and Machine Learning.<br/>
+  - 🌱 &nbsp; Learning about Artificial Intelligence and Machine Learning.<br/>
   - ✍️ &nbsp; Pursuing Competitive and Gaming as hobbies/side hustles.  <br/>
 <br/>
 
 ### My Stacks </br>
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
