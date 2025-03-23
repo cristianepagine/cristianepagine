@@ -1,11 +1,12 @@
 <h1 align="center">Hey there! I'm Cristiane Pagine 👋 </h1></br>
-<h2 align="center">🚀  Machine Learning Developer| Python Developer | Java Developer | Competitive Gamer  🚀</h3></br>
+<h2 align="center">🚀  Java Professor | Product Manager | Python Developer | Java Developer | Competitive Gamer  🚀</h3></br>
+  - 😄 &nbsp; Java specialist professor at UTFPR, teaching in the postgraduate program.<br/>
+  - 😄 &nbsp; I am a Product Manager at NTT Data, in the software development area.<br/>
   - 😄 &nbsp; Exploring new technologies and developing software solutions and quick hacks.<br/>
   - 🎓 &nbsp; Postgraduate Specialization in Java Development at UTFPR.<br/>
   - 🎓 &nbsp; MSc in Computer Science at UFPR.<br/>
-  - 💼 &nbsp; I’m currently working on Machine Lerning Python Development projects.<br/>
-  - 💼 &nbsp; I’m currently working on Java/SpringBoot Development projects.<br/>
-  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.<br/>
+  - 💼 &nbsp; I’m currently working on Machine Lerning Python Development projects and Java.<br/>
+  - 🌱 &nbsp; Learning more about Backend Architectures.<br/>
   - 🌱 &nbsp; Learning about Artificial Intelligence and Machine Learning.<br/>
   - ✍️ &nbsp; Pursuing Competitive and Gaming as hobbies/side hustles.  <br/>
 <br/>
